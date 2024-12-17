@@ -7,7 +7,7 @@ Table of Contents
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-    - [Customer Lifetime Value (CLV) and Purchase Frequency Trend](#Customer-Lifetime-Value-and-Purchase-Frequency-Trend)
+    - [Customer Lifetime Value and Purchase Frequency Trend](#Customer-Lifetime-Value-and-Purchase-Frequency-Trend)
     - [Review Ratings Trend](#Review-Ratings-Trend)
     - [Retention Rate Trend](#Retention-Rate-Trend)
     - [Promo Codes, Distance and Location Trend](#Promo-Codes-Distance-and-Location-Trend)
@@ -35,7 +35,7 @@ Trendline's Retail Analysis of **39k records** shows a high retention rate of 
 SQL is used to answer key stakeholder questions and visualization of the results is done in Excel, enabling more informed and strategic decision-making.
 
 
-### Customer Lifetime Value (CLV) and Purchase Frequency Trend
+### Customer Lifetime Value and Purchase Frequency Trend
 
  Assuming each customer has a lifespan of 3 years  
  In this scenario, CLV is calculated as: 
