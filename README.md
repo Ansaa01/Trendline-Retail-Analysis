@@ -108,21 +108,31 @@ In contrast, the **Clothing** category has the lowest average CLV, with **Blo
 
 These efforts will maximize CLV, strengthen retention, and set Trendline apart in a competitive market.
 
+***
+
 **Loyalty Program Enhancements by implementing progressive loyalty rewards**
 
 The reward system is designed to boost customer engagement and encourage frequent purchases by offering **Express Shipping** as a key benefit in higher loyalty levels, which helps increase Customer Lifetime Value (CLV), especially for non-subscribers (280.45 compared to 202.05 for subscribers). Targeted discounts for **Store Pickup** can also be included, as it shows strong CLV for both subscribers (250.45) and non-subscribers (228.23), making it an affordable and convenient option for regular loyalty members. Additionally, providing early access to top-performing product categories like **Outerwear**, which leads CLV overall (252) and peaks during Spring (296) and Fall (270), will further encourage repeat purchases and loyalty.
+
+***
 
 **Regional Growth Strategies**
 
 Focus on boosting promo code usage in areas like California and Idaho, where adoption and customer value are low, by improving awareness and accessibility. In regions like Indiana and Nevada, promo code usage is higher, but customer value remains low, suggesting that the issue lies not with the promo codes themselves but with educating customers on how to maximize their benefits.
 
+***
+
 **Customer Growth and Retention**
 
 Target Young Adults, who make up a significant portion of the customer base (1,241 out of 3,900), with tailored marketing campaigns and rewards. While retention rates for Young Adult Males (97.46%) and Females (98.11%) are strong, personalized offers and membership levels can further encourage repeat purchases. Since young adults are not necessarily working and may have limited income, introduce the **"SmartStart Savings Campaign"**, offering targeted discounts and promo codes to make purchases more accessible and appealing to this demographic.
 
+***
+
 **Customer Re-Engagement**
 
 Retarget Single-Purchase customers with personalized email and SMS campaigns, highlighting trending products and exclusive offers to drive repeat purchases.
+
+***
 
 ## Clarifying Questions, Assumptions, and Caveats
 
