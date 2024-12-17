@@ -1,8 +1,6 @@
 # Trendline Retail Solutions Analysis
 
 > To explore more of my projects and follow my data journey, visit my [Portfolio](https://ansaa01.github.io/Afua-Ansaa.github.io/index.html).
-<details>
-<summary>Table of Contents</summary>
 
 Table of Contents
 
@@ -13,9 +11,8 @@ Table of Contents
     - [Review Ratings Trend](#Review-Ratings-Trend)
     - [Retention Rate Trend](#Retention-Rate-Trend)
     - [Promo Codes, Distance and Location Trend](#Promo-Codes-Distance-and-Location-Trend)
-- [Actionable Recommendations](#actionable-recommendations)
 - [Recommendations](#recommendations)
-- [Assumptions and Caveats](#assumptions-and-caveats)
+- [Assumptions and Caveats](#clarifying-questions-assumptions-and-caveats)
 
 </details>
 
@@ -94,7 +91,7 @@ Promo code usage across locations shows a balanced adoption and a non-drastic ch
 ![Dashboard](/data-visualization/dashboard.jpg)
 
 
-# Recommendations
+## Recommendations
 
 
 **Maximizing product offerings**
@@ -121,7 +118,7 @@ Target Young Adults, who make up a significant portion of the customer base (1,2
 
 Retarget Single-Purchase customers with personalized email and SMS campaigns, highlighting trending products and exclusive offers to drive repeat purchases.
 
-# Clarifying Questions, Assumptions, and Caveats
+## Clarifying Questions, Assumptions, and Caveats
 
 
 **Questions for Stakeholders Prior to Project Advancement**
