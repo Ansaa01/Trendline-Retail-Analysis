@@ -66,7 +66,7 @@ Shirt has the lowest average review rating of 3.63, consistent for both subscrip
 
 To calculate the retention rate, we first confirmed that all 3900 customers have made at least one purchase. Customers were then categorized as either "new" (one purchase) or "retained" (multiple purchases).
 
-![Retention Formula](/data-visualization/retentionformula.jpg)
+![Retention Formula](/data-visualization/retention_formula.jpg)
 
 **What is the retention rate analysis by Age Bracket, Gender, and Customer Status?**
 
