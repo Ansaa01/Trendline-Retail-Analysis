@@ -132,7 +132,6 @@ Target Young Adults, who make up a significant portion of the customer base (1,2
 
 Retarget Single-Purchase customers with personalized email and SMS campaigns, highlighting trending products and exclusive offers to drive repeat purchases.
 
-***
 
 ## Clarifying Questions, Assumptions, and Caveats
 
