@@ -41,7 +41,7 @@ SQL is used to answer key stakeholder questions and visualization of the results
  Assuming each customer has a lifespan of 3 years  
  In this scenario, CLV is calculated as: 
 
- ![CLV Formula](/data-visualization/clv.jp)
+ ![CLV Formula](/data-visualization/clv.jpg)
 
  **Which shipping types, across subscription statuses, contribute the most to Customer Lifetime Value (CLV) ?**
 
@@ -72,11 +72,15 @@ To calculate the retention rate, we first confirmed that all 3900 customers have
 
 Retention rates across age and gender groups show strong loyalty, with Adult Female at 98.56% and Adult Male at 97.39%, both performing well. Senior Male and Senior Female also show high retention. Young Adult Female (97.46%) and Young Adult Male (98.11%) exhibit similar loyalty, though slightly lower. In total, there are 1,481 Adult, 1,178 Senior, and 1,241 Young Adult customers, with a higher number of male customers (2,652) compared to female customers (1,248). 
 
+![Retention Rate](/data-visualization/retention_rate.jpg)
+
 ### Promo Codes, Distance and Location Trend
 
 **What are the top-performing promo codes and their high-impact locations that drive discounts?**
 
 Promo code usage across locations shows a balanced adoption and a non-drastic change between "Yes" and "No" promo code usage. With Indiana leading in promo code usage (45 "Yes" vs. 34 "No"), and Nevada showing similar trends (41 "Yes" vs. 46 "No"). Locations like California and Idaho show higher "No" promo code usage, suggesting opportunities to increase promo code adoption.
+
+![Promo Code per location](/data-visualization/promo_codes.jpg)
 
 # Overall Dashboard of Trends
 ![Dashboard](/data-visualization/dashboard.jpg)
