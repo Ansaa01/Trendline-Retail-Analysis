@@ -7,7 +7,7 @@ Table of Contents
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
-    - [Customer Lifetime Value (CLV) and Purchase Frequency Trend](#Customer-Lifetime-Value-(CLV)-and-Purchase-Frequency-Trend)
+    - [Customer Lifetime Value (CLV) and Purchase Frequency Trend](#Customer-Lifetime-Value-and-Purchase-Frequency-Trend)
     - [Review Ratings Trend](#Review-Ratings-Trend)
     - [Retention Rate Trend](#Retention-Rate-Trend)
     - [Promo Codes, Distance and Location Trend](#Promo-Codes-Distance-and-Location-Trend)
