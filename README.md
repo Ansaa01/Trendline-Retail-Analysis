@@ -1,4 +1,4 @@
-> To explore more of my projects and follow my data journey, visit my [Portfolio](https://ansaa01.github.io/Afua-Ansaa.github.io/index.html).
+To explore more of my projects and follow my data journey, visit my [Portfolio](https://ansaa01.github.io/Afua-Ansaa.github.io/index.html).
 <details>
 <summary>Table of Contents</summary>
 Table of Contents
@@ -15,7 +15,7 @@ Table of Contents
 - [Assumptions and Caveats](#assumptions-and-caveats)
 
 </details>
-***
+
 
 ## Project Background
 
