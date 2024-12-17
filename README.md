@@ -56,6 +56,8 @@ Outerwear emerges as the top-performing product category, driving the highest *
 
 ### **Review Ratings Trend**
 
+*** 
+
 The general average rating across the dataset is 3.75 reflecting a generally good rating for items. However, there were some items that fell below the average rating.
 
 **Which items were rated below-average review ratings compared to the overall item ratings?**
@@ -67,6 +69,8 @@ Shirt has the lowest average review rating of 3.63, consistent for both subscrip
 ![Review Rating](/data-visualization/review.jpg)
 
 ### **Retention Rate Trend**
+
+***
 
 To calculate the retention rate, we first confirmed that all 3900 customers have made at least one purchase. Customers were then categorized as either "new" (one purchase) or "retained" (multiple purchases).
 
@@ -80,6 +84,8 @@ Retention rates across age and gender groups show strong loyalty, with Adult Fem
 ![Retention Rate](/data-visualization/retention_rate.jpg)
 
 ### Promo Codes, Distance and Location Trend
+
+***
 
 **What are the top-performing promo codes and their high-impact locations that drive discounts?**
 
