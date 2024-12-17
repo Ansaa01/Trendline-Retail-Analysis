@@ -5,7 +5,7 @@ Table of Contents
 
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
-@@ -14,10 +13,10 @@
+- [Insights Deep-Dive](#insights-deep-dive)
     - [Customer Lifetime Value (CLV) and Purchase Frequency Trend](#Customer-Lifetime-Value-(CLV)-and-Purchase-Frequency-Trend)
     - [Review Ratings Trend](#Review-Ratings-Trend)
     - [Retention Rate Trend](#Retention-Rate-Trend)
@@ -19,22 +19,34 @@ Table of Contents
 
 ## Project Background
 
-@@ -27,12 +26,8 @@ Trendline Retail Analysis, a global e-commerce company founded in 2015, specializes in selling clothing, accessories, footwear and outwear.
+Trendline Retail Analysis, a global e-commerce company founded in 2015, specializes in specializes in fashion and lifestyle products.
 
 Founded in 2015, Trendline Retail Solutions specializes in fashion and lifestyle products, like clothing and accessories, and operates as a leading e-commerce platform with an expanding network of physical stores. I collaborate closely with the Product Management Team and Customer Experience Team to understand customer lifetime value (CLV), evaluate product demand, and uncover purchase patterns. These insights help optimize product offerings, enhance the shopping experience, and develop strategies that drive customer engagement and retention.
+
+## Executive Summary**
+
+---
+
+Trendline's Retail Analysis of **39k records** shows a high retention rate of 97.87%, with non-subscribers having higher Customer Lifetime Value (CLV). **Outerwear** drives the highest CLV across all categories, while **Express** and **Store Pickup** shipping types account for **65%** of total purchase value, with non-subscribers representing a majority of this trend. Retention remains strong across age groups, particularly **Senior Males** accounting for **28%** of total retained customers and **Adult Females** contributing **34%.** Trendline can benefit by optimizing subscription offerings, enhancing shipping strategies, and targeting younger age groups   **elevate CLV** and drive **sustainable growth**.
+
+![ERD Table](/data-visualization/ERD.jpg)
 
 
 ## Insights Deep-Dive
 SQL is used to answer key stakeholder questions and visualization of the results is done in Excel, enabling more informed and strategic decision-making.
+
 
 ### Customer Lifetime Value (CLV) and Purchase Frequency Trend
 
  Assuming each customer has a lifespan of 3 years  
  In this scenario, CLV is calculated as: 
 
+ ![CLV Formula](/data-visualization/clv.jp)
+
  **Which shipping types, across subscription statuses, contribute the most to Customer Lifetime Value (CLV) ?**
 
 The top 4 shipping types that emerge as the most valuable contributors to Customer Lifetime Value (CLV) across subscription statuses are Express, Store Pickup, 2-Day Shipping and Free Shipping. Notably, subscribers show higher CLV with these shipping types, particularly Express representing 280.45 non-subscribers vs. 202.05 subscribers. This highlights opportunities to enhance the subscription offerings as they currently do not show the same level of effectiveness. Store Pickup stands out with strong CLV for both Yes (250.45) and No (228.23), providing a budget-friendly delivery without shipping expenses.
+
 
 **Which product category drives the most customer value (CLV) overall?**
 
