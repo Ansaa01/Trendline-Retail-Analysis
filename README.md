@@ -44,7 +44,7 @@ SQL is used to answer key stakeholder questions and visualization of the results
  In this scenario, CLV is calculated as: 
 
  ![CLV Formula](/data-visualization/clv.jpg)
-
+ ![Frequency of Purchase](/data-visualization/frequency-of-purchase.jpg)
  **Which shipping types, across subscription statuses, contribute the most to Customer Lifetime Value (CLV) ?**
 
 The top 4 shipping types that emerge as the most valuable contributors to Customer Lifetime Value (CLV) across subscription statuses are Express, Store Pickup, 2-Day Shipping and Free Shipping. Notably, subscribers show higher CLV with these shipping types, particularly Express representing 280.45 non-subscribers vs. 202.05 subscribers. This highlights opportunities to enhance the subscription offerings as they currently do not show the same level of effectiveness. Store Pickup stands out with strong CLV for both Yes (250.45) and No (228.23), providing a budget-friendly delivery without shipping expenses.
