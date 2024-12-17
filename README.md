@@ -26,9 +26,8 @@ Trendline Retail Analysis, a global e-commerce company founded in 2015, speciali
 
 Founded in 2015, Trendline Retail Solutions specializes in fashion and lifestyle products, like clothing and accessories, and operates as a leading e-commerce platform with an expanding network of physical stores. I collaborate closely with the Product Management Team and Customer Experience Team to understand customer lifetime value (CLV), evaluate product demand, and uncover purchase patterns. These insights help optimize product offerings, enhance the shopping experience, and develop strategies that drive customer engagement and retention.
 
-## Executive Summary**
+## Executive Summary
 
----
 
 Trendline's Retail Analysis of **39k records** shows a high retention rate of 97.87%, with non-subscribers having higher Customer Lifetime Value (CLV). **Outerwear** drives the highest CLV across all categories, while **Express** and **Store Pickup** shipping types account for **65%** of total purchase value, with non-subscribers representing a majority of this trend. Retention remains strong across age groups, particularly **Senior Males** accounting for **28%** of total retained customers and **Adult Females** contributing **34%.** Trendline can benefit by optimizing subscription offerings, enhancing shipping strategies, and targeting younger age groups   **elevate CLV** and drive **sustainable growth**.
 
@@ -91,7 +90,6 @@ Promo code usage across locations shows a balanced adoption and a non-drastic ch
 
 # Recommendations
 
----
 
 **Maximizing product offerings**
 
@@ -119,7 +117,6 @@ Retarget Single-Purchase customers with personalized email and SMS campaigns, h
 
 # Clarifying Questions, Assumptions, and Caveats
 
----
 
 **Questions for Stakeholders Prior to Project Advancement**
 
