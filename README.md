@@ -153,7 +153,7 @@ The `Location` field may be too broad (e.g., state-level) for detailed geograp
 ---
 
 - See the raw data and my cleaning, analysis, and pivot tables in this [Excel workbook](https://onedrive.live.com/view.aspx?resid=BCD7177EF7563899!s7c986db9eeec44e0b70e6c607a7cd392&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iY2Q3MTc3ZWY3NTYzODk5L0lRUzViWmg4N083Z1JMY09iR0I2Zk5PU0FUcU1tdGtnclFyOXN5YVBaVlJzTkhB).
-- See my SQL queries in the [SQL file]
+- See my SQL queries in the [SQL file](/Exploratory%20Analysis/shopping.sql)
 - For more of my projects and data journey, visit my [portfolio website and reach out!](https://ansaa01.github.io/Afua-Ansaa.github.io/index.html)
 
 
