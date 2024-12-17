@@ -55,6 +55,8 @@ The top 4 shipping types that emerge as the most valuable contributors to Custom
 
 Outerwear emerges as the top-performing product category, driving the highest **Customer Lifetime Value (CLV)** at **252**overall. Notably, Outerwear excels in **Spring** (296) and **Fall** (270), highlighting its seasonal appeal. This suggests opportunities to optimize inventory and marketing efforts around these peak seasons to maximize **CLV** further.
 
+![Product Category](/data-visualization/category.jpg)
+
 ### **Review Ratings Trend**
 
 The general average rating across the dataset is 3.75 reflecting a generally good rating for items. However, there were some items that fell below the average rating.
@@ -64,6 +66,8 @@ The general average rating across the dataset is 3.75 reflecting a generally goo
 Blouse received a rating of 3.68, lower than the general rating, with non-subscribers at 3.70 and subscribers at 3.58.
 Coat and Hoodie have ratings close to the general rating (3.73 and 3.72 respectively), suggesting they are performing reasonably well.
 Shirt has the lowest average review rating of 3.63, consistent for both subscription statuses (No: 3.63, Yes: 3.63).
+
+![Review Rating](/data-visualization/review.jpg)
 
 ### **Retention Rate Trend**
 
@@ -75,6 +79,7 @@ To calculate the retention rate, we first confirmed that all 3900 customers have
 
 Retention rates across age and gender groups show strong loyalty, with Adult Female at 98.56% and Adult Male at 97.39%, both performing well. Senior Male and Senior Female also show high retention. Young Adult Female (97.46%) and Young Adult Male (98.11%) exhibit similar loyalty, though slightly lower. In total, there are 1,481 Adult, 1,178 Senior, and 1,241 Young Adult customers, with a higher number of male customers (2,652) compared to female customers (1,248). 
 
+![Customer Count](/data-visualization/customer-count.jpg)
 ![Retention Rate](/data-visualization/retention_rate.jpg)
 
 ### Promo Codes, Distance and Location Trend
