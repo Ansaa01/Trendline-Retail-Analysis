@@ -1,6 +1,6 @@
 # Trendline Retail Solutions Analysis
 
-> To explore more of my projects and follow my data journey, visit my [Portfolio](https://ansaa01.github.io/Afua-Ansaa.github.io/index.html).
+> To explore more of my projects and follow my data journey, visit my [Portfolio](https://www.notion.so/ansaa-data-portfolio/Hey-there-I-am-Ansaa-16041da5e7d080b0a6a6e14d7a65a71d).
 
 Table of Contents
 
@@ -172,7 +172,7 @@ The `Location` field may be too broad (e.g., state-level) for detailed geograp
 
 - See the raw data and my cleaning, analysis, and pivot tables in this [Excel workbook](https://onedrive.live.com/view.aspx?resid=BCD7177EF7563899!s7c986db9eeec44e0b70e6c607a7cd392&migratedtospo=true&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3gvYy9iY2Q3MTc3ZWY3NTYzODk5L0lRUzViWmg4N083Z1JMY09iR0I2Zk5PU0FUcU1tdGtnclFyOXN5YVBaVlJzTkhB).
 - See my SQL queries in the [SQL file](/Exploratory%20Analysis/shopping.sql)
-- For more of my projects and data journey, visit my [portfolio website and reach out!](https://ansaa01.github.io/Afua-Ansaa.github.io/index.html)
+- For more of my projects and data journey, visit my [portfolio website and reach out!](https://www.notion.so/ansaa-data-portfolio/Hey-there-I-am-Ansaa-16041da5e7d080b0a6a6e14d7a65a71d)
 
 
 
